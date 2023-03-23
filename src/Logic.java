@@ -1,4 +1,4 @@
-class Logic {
+public class Logic {
   public static void test(){
   }
 }
